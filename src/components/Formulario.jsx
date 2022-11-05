@@ -26,7 +26,7 @@ const Formulario = () => {
     setTodo({
       todoName: "",
       todoDescripcion: "",
-      todoEstado: "pendiente",
+      todoEstado: "Pendiente",
       todoCheck: false,
     });
   };
